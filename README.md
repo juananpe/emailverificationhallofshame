@@ -6,6 +6,6 @@ Compañías que no verifican la dirección de email de sus clientes y envían me
 * Facturas con datos personales, detalles de consumo, dirección postal
 * No incluye enlace directo para darse de baja
 
-## EpicGames
+## [EpicGames](https://www.epicgames.com)
 
 * EpicGames[+](https://twitter.com/0xJCG/status/1046861462239686656)
