@@ -14,3 +14,8 @@ Compañías que no verifican la dirección de email de sus clientes y envían me
 
 * Facturas con datos personales, detalles de consumo, dirección postal
 * No responden a los avisos de que ese email no está verificado
+
+
+## [Avon](REPSERVICEMEX@avon.com)
+
+* Facturas con datos personales, detalles de consumo, dirección postal
