@@ -8,7 +8,11 @@ Compañías que no verifican la dirección de email de sus clientes y envían me
 
 ## [EpicGames](https://www.epicgames.com)
 
-* EpicGames[+](https://twitter.com/0xJCG/status/1046861462239686656)
+* Envían correo de verifación, pero permiten seguir usando la cuenta, incluso para vincular cuentas de redes sociales
+* No incluye enlace directo para darse de baja, por lo que es necesario ponerse en contacto con el centro de soporte
+* Desde el centro de soporte no eliminan la cuenta debido a "requerimientos no cumplidos"
+* No asisten vía Twitter
+* [+](https://twitter.com/0xJCG/status/1046861462239686656)
 
 ## [Autopista Vespucio Norte](http://www.vespucionorte.cl/)
 
