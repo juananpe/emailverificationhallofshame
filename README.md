@@ -23,3 +23,9 @@ Compañías que no verifican la dirección de email de sus clientes y envían me
 ## [Avon](REPSERVICEMEX@avon.com)
 
 * Facturas con datos personales, detalles de consumo, dirección postal
+
+
+## [Amadeus](eticket@amadeus.com)
+
+* Billete electrónico para embarcar en avión
+* Datos personales, detalles del vuelo, precios...
