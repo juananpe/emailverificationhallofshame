@@ -29,3 +29,8 @@ Compañías que no verifican la dirección de email de sus clientes y envían me
 
 * Billete electrónico para embarcar en avión
 * Datos personales, detalles del vuelo, precios...
+
+
+## [Prosegur](proseguralarmas.com)
+
+* Nombre y apellidos de sus clientes
