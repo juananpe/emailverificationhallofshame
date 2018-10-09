@@ -8,7 +8,7 @@ Compañías que no verifican la dirección de email de sus clientes y envían me
 
 ## [EpicGames](https://www.epicgames.com)
 
-* Envían correo de verifación, pero permiten seguir usando la cuenta, incluso para vincular cuentas de redes sociales
+* Envían correo de verificación, pero permiten seguir usando la cuenta, incluso para vincular cuentas de redes sociales
 * No incluye enlace directo para darse de baja, por lo que es necesario ponerse en contacto con el centro de soporte
 * Desde el centro de soporte no eliminan la cuenta debido a "requerimientos no cumplidos"
 * No asisten vía Twitter
@@ -34,3 +34,9 @@ Compañías que no verifican la dirección de email de sus clientes y envían me
 ## [Prosegur](proseguralarmas.com)
 
 * Nombre y apellidos de sus clientes
+
+
+## [BancoEstado](https://www.bancoestado.cl/)
+
+* Nombre y apellidos de sus clientes
+* No asisten vía Twitter
