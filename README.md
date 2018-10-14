@@ -40,3 +40,8 @@ Compañías que no verifican la dirección de email de sus clientes y envían me
 
 * Nombre y apellidos de sus clientes
 * No asisten vía Twitter
+
+## [Idealista](https://idealista.com)
+ 
+* Nombre y apellidos de sus clientes
+* Enlaces para cambiar o dar de baja anuncios de propiedades
