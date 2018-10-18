@@ -10,7 +10,7 @@ Compañías que no verifican la dirección de email de sus clientes y envían me
 
 * Envían correo de verificación, pero permiten seguir usando la cuenta, incluso para vincular cuentas de redes sociales
 * No incluye enlace directo para darse de baja, por lo que es necesario ponerse en contacto con el centro de soporte
-* Desde el centro de soporte no eliminan la cuenta debido a "requerimientos no cumplidos"
+* Se tiene que "amenazar" con la GDPR al centro de soporte para eliminar la cuenta
 * No asisten vía Twitter
 * [+](https://twitter.com/0xJCG/status/1046861462239686656)
 
@@ -19,29 +19,30 @@ Compañías que no verifican la dirección de email de sus clientes y envían me
 * Facturas con datos personales, detalles de consumo, dirección postal
 * No responden a los avisos de que ese email no está verificado
 
-
 ## [Avon](REPSERVICEMEX@avon.com)
 
 * Facturas con datos personales, detalles de consumo, dirección postal
-
 
 ## [Amadeus](eticket@amadeus.com)
 
 * Billete electrónico para embarcar en avión
 * Datos personales, detalles del vuelo, precios...
 
-
 ## [Prosegur](proseguralarmas.com)
 
 * Nombre y apellidos de sus clientes
-
 
 ## [BancoEstado](https://www.bancoestado.cl/)
 
 * Nombre y apellidos de sus clientes
 * No asisten vía Twitter
 
-## [Idealista](https://idealista.com)
+## [Idealista](https://idealista.com)
  
 * Nombre y apellidos de sus clientes
 * Enlaces para cambiar o dar de baja anuncios de propiedades
+
+## [GAME](https://www.game.es/)
+
+* Códigos de tarjetas prepago
+* No asisten vía Twitter
