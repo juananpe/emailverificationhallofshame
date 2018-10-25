@@ -42,3 +42,9 @@ Compañías que no verifican la dirección de email de sus clientes y envían me
 
 * Códigos de tarjetas prepago
 * No asisten vía Twitter
+
+
+## [Orange](https://www.orange.es/)
+
+* Número de teléfono y SIM
+* Datos personales de los clientes (nombre, apellidos, dirección postal, fecha de nacimiento, DNI)
