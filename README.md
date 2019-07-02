@@ -48,3 +48,9 @@ Compañías que no verifican la dirección de email de sus clientes y envían me
 
 * Número de teléfono y SIM
 * Datos personales de los clientes (nombre, apellidos, dirección postal, fecha de nacimiento, DNI)
+
+## [Booking](https://booking.com)
+
+* Detalles de propietarios de hoteles, casas rurales, apartamentos
+* Detalles de las reservas de clientes
+[Ejemplo de email de cliente](https://www.dropbox.com/s/sjhco87yuyud2vj/booking.png?dl=1)
