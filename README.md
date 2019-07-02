@@ -54,3 +54,9 @@ Compañías que no verifican la dirección de email de sus clientes y envían me
 * Detalles de propietarios de hoteles, casas rurales, apartamentos
 * Detalles de las reservas de clientes
 [Ejemplo de email de cliente](https://www.dropbox.com/s/sjhco87yuyud2vj/booking.png?dl=1)
+
+## [PayPal](https://www.paypal.com/)
+
+* Nombre completo de otras personas que utilizan un email sin confirmar.
+* Detalles de caducidad de tarjetas
+* [+](https://twitter.com/garaolaza/status/1145929806468603905)
