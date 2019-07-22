@@ -64,3 +64,4 @@ Compañías que no verifican la dirección de email de sus clientes y envían me
 ## [LeroyMerlin](https://spain.leroymerlin.com/es)
 * Nombre y apellidos del cliente
 * Detalles de pedidos realizados
+* [Ejemplo de email](https://twitter.com/juanan/status/1153236023637417984)
