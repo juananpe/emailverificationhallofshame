@@ -60,3 +60,7 @@ Compañías que no verifican la dirección de email de sus clientes y envían me
 * Nombre completo de otras personas que utilizan un email sin confirmar.
 * Detalles de caducidad de tarjetas
 * [+](https://twitter.com/garaolaza/status/1145929806468603905)
+
+## [LeroyMerlin](https://spain.leroymerlin.com/es)
+* Nombre y apellidos del cliente
+* Detalles de pedidos realizados
