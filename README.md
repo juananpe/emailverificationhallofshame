@@ -65,3 +65,11 @@ Compañías que no verifican la dirección de email de sus clientes y envían me
 * Nombre y apellidos del cliente
 * Detalles de pedidos realizados
 * [Ejemplo de email](https://twitter.com/juanan/status/1153236023637417984)
+
+
+## [Iberia] (iberia@comunicaciones.iberia.com)
+* Nombre y apellidos del cliente
+* Número de Avios disponibles
+* Reseteo de contraseña
+![image](https://user-images.githubusercontent.com/1078305/122889905-82766980-d343-11eb-9ecb-4063fc3c2be3.png)
+
